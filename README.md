@@ -61,8 +61,5 @@ https://github.com/user-attachments/assets/e5b09201-7e2f-408c-bb80-86c25519f92f
 
 Ikuti panduan berikut untuk menjalankan repositori ini di komputer lokal Anda:
 
-### 1. Kloning Repositori
-```bash
-git clone [https://github.com/sachedeepsingh/smart-checkin-app.git](https://github.com/sachedeepsingh/smart-checkin-app.git)
-cd smart-checkin-app
-snack  expo( https://snack.expo.dev/@sache/fascinated-red-bananas)
+### 1. snack expo https://snack.expo.dev/@sache/fascinated-red-bananas
+
