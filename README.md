@@ -65,3 +65,4 @@ Ikuti panduan berikut untuk menjalankan repositori ini di komputer lokal Anda:
 ```bash
 git clone [https://github.com/sachedeepsingh/smart-checkin-app.git](https://github.com/sachedeepsingh/smart-checkin-app.git)
 cd smart-checkin-app
+snack  expo( https://snack.expo.dev/@sache/fascinated-red-bananas)
